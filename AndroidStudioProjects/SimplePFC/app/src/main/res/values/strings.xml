@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    //アプリ・アクティビティタイトル
+    <string name="app_name">シンプルPFC</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_edit_my_list">マイアイテムの追加</string>
+    <string name="title_activity_edit_food_list">フードの追加</string>
+    <string name="title_activity_delete_my_item">マイアイテムの削除</string>
+    <string name="title_activity_delete_food">フードの削除</string>
+
+
+    //タブタイトル
+    <string name="tab_my_list">マイアイテム</string>
+    <string name="tab_food_list">フードリスト</string>
+    <string name="tab_manual_input">マニュアル</string>
+
+    //三大栄養素
+
+    <string name="protein">タンパク質</string>
+    <string name="fat">脂質</string>
+    <string name="carb">炭水化物</string>
+
+    //０とか単位など
+    <string name="g">g</string>
+    <string name="zero">0</string>
+    <string name="zeroG">0g</string>
+    <string name="zeroCal">0kcal</string>
+    <string name="perG">gあたり...</string>
+
+    //追加
+    <string name="plus">+</string>
+    <string name="add">追加</string>
+    <string name="addToMyList">マイリストに追加</string>
+    <string name="executed_add_to_my_list">をマイリストに追加しました</string>
+    <string name="addToTodaysRecord">を今日の記録に追加しました</string>
+
+    //記録
+    <string name="to_record">記録する</string>
+    <string name="record_foods">食べたものを記録</string>
+    <string name="todaySRecord">今日の記録</string>
+    <string name="pastRecords">過去の記録</string>
+
+    //登録
+    <string name="register">登録</string>
+    <string name="registerItem">アイテム登録</string>
+    <string name="register_food">フード登録</string>
+
+    //編集
+    <string name="edit">編集する</string>
+    <string name="edit_food">フードを編集</string>
+
+    //削除
+    <string name="delete">削除する</string>
+    <string name="deleted">を削除しました。</string>
+    <string name="deleteQ">削除しますか？</string>
+    <string name="delete_from_my_list">マイリストから削除</string>
+    <string name="delete_from_food_list">食べ物リストから削除</string>
+    <string name="delete_from_the_record">記録から削除</string>
+
+    //情報
+    <string name="my_item_info">マイアイテム情報</string>
+
+    //戻る
+    <string name="back">戻る</string>
+
+    //詳細
+    <string name="detail">詳細</string>
+
+</resources>
